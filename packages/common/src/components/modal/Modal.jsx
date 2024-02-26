@@ -7,7 +7,6 @@ const Modal = () => {
   const openModal = () => setIsOpen(true);
   const closeModal = () => setIsOpen(false);
 
-
   return (
     <div>
       <button onClick={openModal}>Open Modal</button>
@@ -15,7 +14,7 @@ const Modal = () => {
         <div className="modal-container">
           <div className="modal-content">
             <span className="close" onClick={closeModal}>&times;</span>
-            <p>Modal content</p>
+            <p>Modal package</p>
           </div>
         </div>
       }
@@ -24,6 +23,7 @@ const Modal = () => {
 };
 
 export default Modal;
+
 
 
 
