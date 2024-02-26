@@ -2,5 +2,5 @@
 [medium link]()
 
 #### Ayrıntılı açıklama için makaleyi okuyun:
-[medium link]()
+[medium link](https://medium.com/@melihsahin/monorepo-kavram%C4%B1-f00ea4b7e595)
 
